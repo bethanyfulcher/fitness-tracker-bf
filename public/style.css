@@ -1,0 +1,7 @@
+#weeks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 80%;
+    border: 1px dotted red;
+}
